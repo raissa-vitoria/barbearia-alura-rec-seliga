@@ -2,6 +2,10 @@ body {
     background: #CCCCCC
 }
 
+#image {
+
+}
+
 h1 { 
     text-align: center
 }
@@ -10,7 +14,7 @@ p {
     text-align: center;
 }
 
-#missão {
+#missao {
     font-size: 20px
 }
 
