@@ -38,3 +38,11 @@ em strong {
 h2 {
     text-align: center;
 }
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
